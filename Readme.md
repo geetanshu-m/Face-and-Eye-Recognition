@@ -1,5 +1,5 @@
-# Install Dependencies
-Steps to run
+# Face and Eye Recognition using python
+### Steps to run
 1. Install Dependencies
 ```
 pip3 install -r requirements.txt
